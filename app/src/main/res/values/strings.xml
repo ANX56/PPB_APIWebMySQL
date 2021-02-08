@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">PPB_APIWebMySQL</string>
+    <string name="biodata">Biodata</string>
+    <string name="add">Add</string>
+    <string name="nama">Nama</string>
+    <string name="email">E-Mail</string>
+    <string name="nohp">Nomor HP</string>
+    <string name="item1">Item 1</string>
+    <string name="gambar">Gambar</string>
+    <string name="friends_list">Friends List</string>
+    <string name="update">Update</string>
+    <string name="delete">Delete</string>
+    <array name="teams">
+        <item>teman</item>
+        <item>biasa saja</item>
+        <item>bagaimana ya?</item>
+        <item>no comment</item>
+    </array>
+</resources>
